@@ -1,9 +1,8 @@
 # Ultrareddit
 
-Ultrareddit is a streamlined Reddit reader built with ReactJs. It works by
-making get requests to Reddit, and then dis
+Ultrareddit is a streamlined Reddit reader built with ReactJs.
 
-#### NPM dependencies
+### NPM dependencies
 
 Ultrareddit uses the following npm packages:
 * React
@@ -12,7 +11,16 @@ Ultrareddit uses the following npm packages:
 
 ### Running Ultrareddit
 
-To run Ultrareddit, first clone this repository from github
+Running Ultrareddit is nice and simple:
+
+* Clone this repository using `git clone https://github.com/phampson/ultrareddit.git`
+* Change into the Ultrareddit working directory
+* Make sure npm is installed by running "npm -v"
+** If not download it on mac with "brew install node",
+** or on ubuntu "sudo apt update", "sudo apt install nodejs npm" "sudo apt install npm"
+* Install dependencies by running "npm install"
+* Start test server by running "npm start"
+
 
 ### `npm start`
 
